@@ -1,2 +1,3 @@
 # Project
-This is my first repository &lt;br> Author - Noor Fatima
+This is my first repository 
+Author - Noor Fatima
